@@ -1,4 +1,5 @@
 # To-Do List App
+![To-Do App Screenshot](todo-app-screenshot.png)
 
 A simple desktop to-do list application built with Python and Tkinter, 
 developed as part of a university assignment.
